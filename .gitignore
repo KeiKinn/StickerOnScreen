@@ -1,33 +1,26 @@
-# Folder view configuration files
+# General
 .DS_Store
-Desktop.ini
+.AppleDouble
+.LSOverride
 
-# Thumbnail cache files
+# Icon must end with two \r
+Icon
+
+# Thumbnails
 ._*
-Thumbs.db
 
-# Files that might appear on external disks
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
 .Spotlight-V100
+.TemporaryItems
 .Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 
-# Compiled Python files
-*.pyc
-
-# Compiled C++ files
-*.out
-
-# Application specific files
-venv
-node_modules
-.sass-cache
-
-# Temp File
-*.swp
-*.swa
-*.swo
-
-# github merge file
-*.orig
-
-#vscode 
-.vscode
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
