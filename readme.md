@@ -8,3 +8,5 @@
 ## Instruction
 
 This repo is used to storege the stickers that will show on my iPhone screen by Scriptable widge.
+
+![](img/IMG_3804.JPEG)
