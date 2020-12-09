@@ -83,10 +83,8 @@ const contentStack = widget.addStack()
 // // 图片链接
 // const pokemonStickerNum = 13183;
 const stickerStartNum = 1000;
-const stickerSum = 199;
+const stickerSum = 235;
 let randomStickerNum = parseInt(stickerStartNum + Math.random() * stickerSum).toString();
-// let nanaRandomStickerNum = parseInt(nanaseStickerNum + Math.random() * stickerSum).toString();
-// let imgUrl = "https://stickershop.line-scdn.net/stickershop/v1/sticker/"+ randomStickerNum + "/android/sticker.png";
 let imgUrl = "https://raw.githubusercontent.com/JadaGates/StickerOnScreen/main/Stickers/Sticker_" + randomStickerNum +".png";
 
 if(imgUrl == undefined) {
