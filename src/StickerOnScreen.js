@@ -83,7 +83,7 @@ const contentStack = widget.addStack()
 // // 图片链接
 // const pokemonStickerNum = 13183;
 const stickerStartNum = 1000;
-const stickerSum = 235;
+const stickerSum = 250;
 let randomStickerNum = parseInt(stickerStartNum + Math.random() * stickerSum).toString();
 let imgUrl = "https://raw.githubusercontent.com/JadaGates/StickerOnScreen/main/Stickers/Sticker_" + randomStickerNum +".png";
 
